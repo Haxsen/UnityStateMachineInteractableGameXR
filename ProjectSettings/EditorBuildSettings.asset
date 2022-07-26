@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_GameAssets/Scenes/Initialization.unity
+    guid: 448de6ae761b06d42a57179669703303
+  - enabled: 1
+    path: Assets/_GameAssets/Scenes/HolofitTestXR.unity
+    guid: 2915b78582acc9b4c9ed55444bfbbf56
+  - enabled: 1
+    path: Assets/_GameAssets/Scenes/HolofitTest.unity
+    guid: e7014505cf910c245bc73c51d190154b
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0f695eb99151609449b6bb2f0148cca9, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f905d846e1c926a4f9656b62f93752b8, type: 2}
